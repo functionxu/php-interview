@@ -1,3 +1,4 @@
+<?php
 //符号位(1bit) + 毫秒时间(41bit) + 工作机器id(10bit) + 递增序列号(12bit)
 $symbol_bin = '0';
 
